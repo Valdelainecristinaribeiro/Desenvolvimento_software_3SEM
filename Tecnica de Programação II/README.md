@@ -1,3 +1,3 @@
-## Tecnica de Programação II
+# Tecnica de Programação II
 
-# Desafios desemvolvidos em Java
+## Desafios desemvolvidos em Java
