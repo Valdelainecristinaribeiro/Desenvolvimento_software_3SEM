@@ -1,7 +1,7 @@
 # Integrantes do grupo:
 
-Gabriel Pedro
-Valdelaine Cristina Ribeiro
+- Gabriel Pedro
+- Valdelaine Cristina Ribeiro
 
 ## Getting Started
 
